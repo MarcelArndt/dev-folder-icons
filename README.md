@@ -4,7 +4,7 @@ A collection of custom folder icons for developers — designed to bring a littl
 
 Created with [Photopea](https://www.photopea.com/) (free online editor), inspired by the classic macOS folder aesthetic.
 
-![Icon Overview](icon-overview.jpg)
+![Screenshot](preview/icon-overview.jpg)
 
 ---
 
