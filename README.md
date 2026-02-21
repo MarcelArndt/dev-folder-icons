@@ -63,7 +63,7 @@ Depends on your file manager — most support right-clicking a folder and choosi
 
 ## 📄 License
 
-MIT License — free to use, modify, and distribute. See [LICENSE](LICENSE) for details.
+MIT License — free to use, modify, and distribute. See [LICENSE](LICENSE.txt) for details.
 
 ---
 
