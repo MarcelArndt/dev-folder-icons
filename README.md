@@ -14,7 +14,7 @@ Created with [Photopea](https://www.photopea.com/) (free online editor), inspire
 |------|------|-------------|
 | 🟥 | `angular` | Angular framework folder |
 | 🟧 | `astro` | Astro framework folder |
-| 🟧 | `sveltekit` | Astro framework folder |
+| 🟧 | `sveltekit` | sveltekit framework folder |
 | 🟫 | `Bash-Scripts` | Shell / Bash scripts folder |
 | 🟩 | `django` | Django framework folder |
 | 🟦 | `docker` | Docker folder |
